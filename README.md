@@ -3,14 +3,14 @@
 I'm Sheoli, welcome to my portfolio! It brings together my work at the intersection of AI ethics, technology policy, and data science. I'm excited about questions like what modern AI tools' implications are for society, how we ought to govern them, and how we can use them to improve lives.
 
 ## Table of Contents
--[About Me](about-me)
--[Ethics Bowl: Regional and National Championship](ethics-bowl-regional-and-national-champion)
--[Technical Background](technical-background)
--[Writing On AI Policy and Ethics](writing-on-ai-policy-and-ethics)
-    -[The Alignment Problem](the-alignment-problem)
-    -[The Blackbox Problem](the-blackbox-problem)
-    -[State of AI Briefs](state-of-ai-briefs)
-[Teaching](teaching)
+- [About Me](#about-me)
+- [Ethics Bowl: Regional and National Champion](#ethics-bowl-regional-and-national-champion)
+- [Technical Background](#technical-background)
+- [Writing On AI Policy and Ethics](#writing-on-ai-policy-and-ethics)
+    - [The Alignment Problem](#the-alignment-problem)
+    - [The Blackbox Problem](#the-blackbox-problem)
+    - [State of AI Briefs](#state-of-ai-briefs)
+- [Teaching](#teaching)
 
 ## About Me
 
@@ -36,15 +36,15 @@ In the past year, I learned the ins and outs of High-Performance Computing (HPC)
 
 Over the past few months, I have begun to record my ideas on the policy and ethical implications of AI tools in regular blog posts. Each piece is thoroughly researched and put out as a starting point for discussion.
 
-### The Alignment Problem
+#### The Alignment Problem
 
 My first piece is about the Alignment Problem. I introduce the problem—which many AI skeptics do not realize is the term capturing one of their biggest worries about the technology—and offer a unique perspective on it. Read the piece (https://substack.com/home/post/p-192360219).
 
-### The Functionalist Problem
+#### The Functionalist Problem
 
 My second post argues that despite our lack of understanding about complex neural networks' internal mechanisms (which we call "the black box problem"), there are risks associated with our putting off this pursuit of a deeper understanding, including alignment problems. I review Alan Turing's paper that introduced what is known as the "Imitation Game," a game built on an assumption (of "functionalism") that I reject. Read this piece (Read the piece).
 
-### State of AI Briefs
+#### State of AI Briefs
 
 In order to keep up with the latest developments in AI, I have started writing brief "State of AI" documents once or twice a week. Each brief serves as a jumping-off point for further research, rather than an end in itself.
 
