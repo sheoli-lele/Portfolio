@@ -2,7 +2,7 @@
 
 I'm Sheoli! Welcome to my portfolio, where I bring together my work at the intersection of AI ethics, technology policy, and data science. I'm excited about questions like what modern AI tools' implications are for society, how we ought to govern them, and how we can use them to improve lives.
 
-As a researcher and developer, I specialize in building data pipelines that transform unstructured data into structured assets, while examining ethical frameworks to ensure machine learning applications remain grounded in accuracy, accountability, and human editorial judgment.
+As a researcher and developer, I specialize in building data pipelines that transform unstructured data into structured assets, while examining ethical frameworks to ensure machine learning applications remain grounded in accuracy, accountability, and human editorial judgment. I brought this specialization to technical roles, including a DC-based AI startup.
 
 ## Table of Contents
 - [About Me](#about-me)
